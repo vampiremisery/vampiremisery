@@ -6,6 +6,6 @@
 
 ![image alt](https://github.com/vampiremisery/vampiremisery/blob/dd489654122132decf1e16bf2da6e55230925e0d/7d61a4115555f4eed7d4b0a975083623.gif) 
 
-ㅤㅤㅤㅤ ㅤㅤㅤ──── ୨୧ ────
+
 
 ![image alt](https://github.com/vampiremisery/vampiremisery/blob/dcec8ba3c9be2edf4be7fd27b61f1826399cd4b0/bded41ae9d15e19630362b91946fd9ea.gif) 
