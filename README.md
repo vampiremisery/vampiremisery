@@ -1,12 +1,8 @@
-<div align="center">
-  <table>
-    <tr>
-      <td bgcolor="#c0c9d4" align="center">
-        <a href="https://instagram.com/tan.hyui_"><font color="#ffffff">&nbsp;&nbsp;𝙄𝙉𝙎&nbsp;&nbsp;</font></a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://instagram.com/tan.hyui_">
+    <img src="https://img.shields.io/badge/%F0%9D%9C%AE%F0%9D%9C%B5%F0%9D%9C%B4-c0c9d4?style=for-the-badge&labelColor=c0c9d4&color=c0c9d4" alt="INS">
+  </a>
+</p>
 
 ![image alt](https://github.com/vampiremisery/vampiremisery/blob/3b8b386a851e5bec1e6a55b625486fa50363c909/86587a010bac4d19be05e7d3af4eb90d.gif) 
 
