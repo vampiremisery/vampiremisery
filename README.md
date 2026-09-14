@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://instagram.com/tan.hyui_">
-    <img src="https://img.shields.io/badge/%F0%9D%9C%AE%F0%9D%9C%B5%F0%9D%9C%B4-c0c9d4?style=for-the-badge&labelColor=c0c9d4&color=c0c9d4" alt="INS">
+    <img src="https://img.shields.io/badge/INS-c0c9d4?style=for-the-badge&labelColor=c0c9d4&color=c0c9d4" alt="INS">
   </a>
 </p>
 
