@@ -1,4 +1,12 @@
-<td bgcolor="#c0c9d4" align="center"><a href="https://www.instagram.com/tan.hyui_"><font color="ffffff"><b>&nbsp;&nbsp;INS&nbsp;&nbsp;</b></font></a></td>
+<div align="center">
+  <table>
+    <tr>
+      <td bgcolor="#c0c9d4" align="center">
+        <a href="https://instagram.com/tan.hyui_"><font color="#ffffff">&nbsp;&nbsp;𝙄𝙉𝙎&nbsp;&nbsp;</font></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ![image alt](https://github.com/vampiremisery/vampiremisery/blob/3b8b386a851e5bec1e6a55b625486fa50363c909/86587a010bac4d19be05e7d3af4eb90d.gif) 
 
