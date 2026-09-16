@@ -1,14 +1,10 @@
 <p align="center">
-  <table>
-    <tr>
-      <td bgcolor="#e63946" align="center" width="110">
-        <a href="https://instagram.com/tan.hyui_"><b><font color="#ffffff">&nbsp;INS&nbsp;</font></b></a>
-      </td>
-      <td bgcolor="#ffffff" align="center" width="110">
-        <a href="https://discord.gg/bundori"><b><font color="#e63946">&nbsp;DIS&nbsp;</font></b></a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://instagram.com/tan.hyui_">
+    <img src="https://img.shields.io/badge/INS-e63946?style=for-the-badge&labelColor=e63946&color=e63946" alt="INS">
+  </a>
+  <a href="https://discord.gg/bundori">
+    <img src="https://img.shields.io/badge/DISCORD-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff&logoColor=e63946" alt="DIS">
+  </a>
 </p>
 
 ![image alt](https://github.com/vampiremisery/vampiremisery/blob/3b8b386a851e5bec1e6a55b625486fa50363c909/86587a010bac4d19be05e7d3af4eb90d.gif) 
