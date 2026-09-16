@@ -5,7 +5,7 @@
         <a href="https://instagram.com/tan.hyui_"><b><font color="#ffffff">&nbsp;INS&nbsp;</font></b></a>
       </td>
       <td bgcolor="#ffffff" align="center" width="110">
-        <a href="https://discord.gg/bundori"><b><font color="#e63946">&nbsp;DISCORD&nbsp;</font></b></a>
+        <a href="https://discord.gg/bundori"><b><font color="#e63946">&nbsp;DIS&nbsp;</font></b></a>
       </td>
     </tr>
   </table>
