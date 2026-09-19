@@ -1,3 +1,5 @@
+![Views](https://komarev.com/ghpvc/?username=vampiremisery&style=plastic&color=8B0000&label=⸝⸝)
+
 <p align="center">
   <a href="https://instagram.com/tan.hyui_">
     <img src="https://img.shields.io/badge/INS-e63946?style=for-the-badge&labelColor=e63946&color=e63946" alt="INS">
