@@ -15,6 +15,6 @@
 
 ![image alt](https://github.com/vampiremisery/vampiremisery/blob/af1876e973f5dc925f41bd033ab7c3ed6aef8d4d/ead541982d28e6f89edd38dbe1a9d107.gif) 
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7E0F4&center=true&width=435&lines=pye!!+)](https://git.io/typing-svg)
 
 ![image alt](https://github.com/vampiremisery/vampiremisery/blob/5c065d75ec8d475ca9680ca30399360a2531eaec/962fdc7c456b1c1f1bbb62f8cc6207b3.gif) 
