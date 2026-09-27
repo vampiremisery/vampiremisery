@@ -18,5 +18,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=D2F7DA&center=true&width=435&lines=pye;see+ya!!+)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github.com/vampiremisery/vampiremisery/blob/5c065d75ec8d475ca9680ca30399360a2531eaec/962fdc7c456b1c1f1bbb62f8cc6207b3.gif" width="200" alt="GIF">
+  <img src="https://github.com/vampiremisery/vampiremisery/blob/5c065d75ec8d475ca9680ca30399360a2531eaec/962fdc7c456b1c1f1bbb62f8cc6207b3.gif" width="150" alt="GIF">
 </p>
