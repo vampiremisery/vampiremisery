@@ -1,4 +1,4 @@
-![Views](https://komarev.com/ghpvc/?username=vampiremisery&style=plastic&color=ff4d79&label=⸝⸝)
+![Views](https://komarev.com/ghpvc/?username=vampiremisery&style=plastic&color=d3004e&label=⸝⸝)
 
 <p align="center">
   <a href="https://instagram.com/ahnniezi">
