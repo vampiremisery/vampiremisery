@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://instagram.com/ahnniezi">
-    <img src="https://img.shields.io/badge/INS-e63946?style=for-the-badge&labelColor=e63946&color=e63946" alt="INS">
+    <img src="https://img.shields.io/badge/INS-e63946?style=for-the-badge&labelColor=e63946&color=2d006a" alt="INS">
   </a>
   <a href="https://discord.gg/bundori">
     <img src="https://img.shields.io/badge/DIS-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff&logoColor=e63946" alt="DIS">
