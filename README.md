@@ -1,11 +1,11 @@
-![Views](https://komarev.com/ghpvc/?username=vampiremisery&style=plastic&color=d3004e&label=⸝⸝)
+![Views](https://komarev.com/ghpvc/?username=vampiremisery&style=plastic&color=1F2423&label=⸝⸝)
 
 <p align="center">
   <a href="https://instagram.com/ahnniezi">
-    <img src="https://img.shields.io/badge/INS-e63946?style=for-the-badge&labelColor=e63946&color=2d006a" alt="INS">
+    <img src="https://img.shields.io/badge/INS-e63946?style=for-the-badge&labelColor=e63946&color=2C3431" alt="INS">
   </a>
   <a href="https://discord.gg/bundori">
-    <img src="https://img.shields.io/badge/DIS-ffffff?style=for-the-badge&labelColor=ffffff&color=ff4d79&logoColor=e63946" alt="DIS">
+    <img src="https://img.shields.io/badge/DIS-ffffff?style=for-the-badge&labelColor=ffffff&color=ff4d79&logoColor=c0c4b6" alt="DIS">
   </a>
 </p>
 
