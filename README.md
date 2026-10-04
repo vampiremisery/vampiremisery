@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/INS-e63946?style=for-the-badge&labelColor=e63946&color=2C3431" alt="INS">
   </a>
   <a href="https://discord.gg/bundori">
-    <img src="https://img.shields.io/badge/DIS-ffffff?style=for-the-badge&labelColor=ffffff&color=ff4d79&logoColor=c0c4b6" alt="DIS">
+    <img src="https://img.shields.io/badge/DIS-ffffff?style=for-the-badge&labelColor=ffffff&color=c0c4b6&logoColor=c0c4b6" alt="DIS">
   </a>
 </p>
 
